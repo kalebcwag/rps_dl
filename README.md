@@ -12,3 +12,6 @@ python gather_images.py rock 250 <br>
 it will open your webcam <br>
 press a to gather images <br>
 press q to quit <br>
+
+## Tutorial on how to use test.py
+Run the file, it will open your webcam. Press space bar to predict.
