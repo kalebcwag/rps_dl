@@ -6,9 +6,9 @@ https://github.com/SouravJohar/rock-paper-scissors
 
 ## Tutorial on how to use the gather_image.py (windows)
 - open command prompt
-- python gather_images.py <label> <amount>
-  example:
-  <b>python gather_images.py rock 250<b>
-  it will open your webcam
-  press a to gather images
+- python gather_images.py <label> <amount> \n
+  example: \n
+  <b>python gather_images.py rock 250<b> \n
+  it will open your webcam \n
+  press a to gather images \n
   press q to quit
