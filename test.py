@@ -44,13 +44,6 @@ while True:
             print("It's a picture of rock")
         elif index == 2:
             print("It's a picture of scissors")
-            
-        print("Press space to continue predicting")
-        key = cv2.waitKey(1)
-        if key%256 == 27:
-            break
-        elif key%256 == 32:
-            continue
         
         # img_name = "opencv_frame_{}.png".format(img_counter)
         # cv2.imwrite(img_name, frame)
